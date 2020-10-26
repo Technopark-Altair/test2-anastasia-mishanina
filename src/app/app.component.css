@@ -1,0 +1,13 @@
+#grid {
+    display: grid;
+    grid-template-rows: 1fr ;
+    grid-template-columns: 100px 1fr 1fr 1fr ;
+    align-self: center;
+
+}
+#grid > div {
+    font-size: 5vw;
+    padding: 5em;
+    background: black;
+    text-align: center;
+}
