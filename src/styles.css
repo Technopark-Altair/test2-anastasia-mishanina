@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
   div {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr 1fr  1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr  ;
     grid-template-columns: 1fr  ;
     align-self: center;
   }
